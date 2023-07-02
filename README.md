@@ -1,4 +1,4 @@
-# ToDo-List-2
+# CN-To-Do-List
 
 # Functionality that the app should have -
 
@@ -25,6 +25,6 @@ and time they are added
 
 > Notification Panel
 
-# Fetching Demo To Dos from a dummy server -
+# Fetching Demo To Do's from a dummy server -
 
-https://jsonplaceholder.typicode.com/todos
+> https://jsonplaceholder.typicode.com/todos
